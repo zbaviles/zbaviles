@@ -8,3 +8,7 @@ collaboration with devslopes "Portfolio needs work"
 - [ ] Devslopes
 - [ ] Linkedin
 
+## Experince
+- [ ] Vibecoding
+- [ ] Upwork
+
