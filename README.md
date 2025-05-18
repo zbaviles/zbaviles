@@ -14,3 +14,8 @@ collaboration with devslopes "Portfolio needs work"
 - [ ] [Vibecoding](https://drive.google.com/file/d/1jBKYT985EWeCHZ_C4V-2ix605jKcaAQX/view?ts=68294cf5)
 - [ ] Upwork
 
+## Goals
+- [ ] UNIX Networks
+- [ ] Full-stack development
+- [ ] IT Support
+- [ ] U.S. Web Design System
