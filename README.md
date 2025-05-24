@@ -2,7 +2,7 @@
 welcome to zbaviles in GitHub
 ## Everardo Aviles
 SANTA CLARA, CA  
-Visit my [Portfolio](https://drive.google.com/file/d/1j2mi8aqS2Z6F6aXwaCvq82OTaGG-3ot7/view?usp=drivesdk)
+Visit my [Portfolio](https://drive.google.com/file/d/1j2mi8aqS2Z6F6aXwaCvq82OTaGG-3ot7/view?usp=sharing)
 collaboration with devslopes "Portfolio needs work"  
 
 ## Education
