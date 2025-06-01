@@ -11,7 +11,6 @@ collaboration with devslopes "Portfolio needs work"
 - [ ] Linkedin
 
 ## Experince
-- [ ] [Vibecoding](https://drive.google.com/file/d/1j2mi8aqS2Z6F6aXwaCvq82OTaGG-3ot7/view?usp=sharing)
 - [ ] Upwork
 
 ## Goals
