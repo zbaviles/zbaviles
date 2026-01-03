@@ -2,16 +2,14 @@
 welcome to zbaviles in GitHub
 ## Everardo Aviles
 SANTA CLARA, CA  
-Visit my [Portfolio](https://eavilesportfolio.wordpress.com/)
-collaboration with devslopes "Portfolio needs work"  
+Visit my [Portfolio](https://zbaviles.github.io/work_console/)
 
 ## Education
 - [ ] Calbright
-- [ ] Devslopes
 - [ ] Linkedin
 
 ## Experince
-- [ ] [VibeCoder](https://drive.google.com/file/d/1zwG1NdI_U1RCcChJD2Vx8FAxlxh3dWpY/view?usp=drivesdk)
+- [ ] Coder
 - [ ] Upwork
 
 ## Goals
