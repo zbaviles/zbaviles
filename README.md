@@ -38,4 +38,5 @@ Visit my [Funny meter comedy landing-page](https://www.zbaviles.github.io/Funny-
 - hollywood-Everardo-Aviles
 - earth-env-data-science-book
 - crometrics-snippets
-- EmojiVS-Everardo-Aviles
+- asteroids-Everardo-Aviles
+- progressive-intelligence-wallet
