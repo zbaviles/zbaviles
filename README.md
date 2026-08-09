@@ -2,7 +2,7 @@
 welcome to zbaviles in GitHub
 ## Everardo Aviles
 SANTA CLARA, CA  
-Visit my [Portfolio](https://zbaviles.github.io/work_console/)
+Visit my [Funny meter comedy landing-page](https://www.zbaviles.github.io/Funny-meter)
 
 ## Education
 - [ ] Calbright
