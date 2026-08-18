@@ -1,16 +1,7 @@
 # GitHub
-welcome to zbaviles in GitHub
+welcome to zbaviles on GitHub
 ## Everardo Aviles
-SANTA CLARA, CA  
 Visit my [Funny meter comedy landing-page](https://www.zbaviles.github.io/Funny-meter)
-
-## Education
-- [ ] Calbright
-- [ ] Linkedin
-
-## Experince
-- [ ] Coder
-- [ ] Upwork
 
 ## Goals
 - [ ] UNIX Networks
